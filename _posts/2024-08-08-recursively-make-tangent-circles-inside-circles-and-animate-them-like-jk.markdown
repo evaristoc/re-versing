@@ -532,7 +532,7 @@ But then he also multiplied the angles by other `magic numbers` at each self cal
 
 `angle` is actually the value of the angular speed: the magnitude of the arc that the circle should travel at each frame. The larger that value, the faster it goes.
 
-The "magic numbers" used by JK had as effect that several different circles rotated under different speeds, also helped by the recursive placing of the different circles.
+Those "magic numbers" used by JK had as effect that several different circles rotated under different speeds, also helped by the recursive placing of the different circles.
 
 <section class='guiprojectsect' id="sectcanvas01">
 <div class='guiprojectgui' id="gui-speedexample"></div>
