@@ -426,10 +426,6 @@
            style="fill:#666666"
            id="tspan141">sides. If hypotenuse is </tspan><tspan
            style="fill:#999999"
-           id="tspan142">h</tspan><tspan
-           style="fill:#666666"
-           id="tspan143">, </tspan><tspan
-           style="fill:#999999"
            id="tspan144">R</tspan><tspan
            style="fill:#666666"
            id="tspan145"> </tspan></tspan><tspan
@@ -437,7 +433,7 @@
          y="555.85539"
          id="tspan156"><tspan
            style="fill:#666666"
-           id="tspan147">is </tspan><tspan
+           id="tspan147">= </tspan><tspan
            style="fill:#999999"
            id="tspan148">h</tspan><tspan
            style="fill:#666666"
@@ -449,7 +445,7 @@
            style="fill:#999999"
            id="tspan152">r</tspan><tspan
            style="fill:#666666"
-           id="tspan153">, so </tspan><tspan
+           id="tspan153">, </tspan><tspan
            style="fill:#999999"
            id="tspan154">R/r = (h + r)/r</tspan><tspan
            style="fill:#666666"
@@ -467,7 +463,7 @@
            style="fill:#666666"
            id="tspan159"> In our case, </tspan><tspan
            style="fill:#999999"
-           id="tspan160">h</tspan><tspan
+           id="tspan160">R</tspan><tspan
            style="fill:#666666"
            id="tspan161"> is </tspan><tspan
            style="fill:#999999"
